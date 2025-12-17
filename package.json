@@ -1,0 +1,24 @@
+{
+  "name": "find_danger",
+  "version": "1.0.0",
+  "description": "\"# findDanger\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AriKodcode/findDanger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AriKodcode/findDanger/issues"
+  },
+  "homepage": "https://github.com/AriKodcode/findDanger#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
